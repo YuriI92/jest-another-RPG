@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "rpg game using jest",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriI92/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "rpg",
+    "game"
+  ],
+  "author": "Yuri Ichikawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuriI92/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/YuriI92/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
